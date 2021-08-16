@@ -1,3 +1,4 @@
+# Crypto Sentiment
 # Fintech Homework for Named Entity Recognition 
 
 In this exercise we investigate the sentiment of Bitcion and Ethereum based on relevant articles downloaded using the News API.  
